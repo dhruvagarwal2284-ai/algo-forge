@@ -14,5 +14,8 @@ public:
         }
         vec.insert(vec.end(),1);
         return vec;
+
     }
+void operator delete(void* ptr) {}
+void operator delete[](void* ptr) {}
 };
