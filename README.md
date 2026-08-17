@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/0011-container-with-most-water) |
+| [0119-pascals-triangle-ii](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/0119-pascals-triangle-ii) |
 | [2029-stone-game-ix](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/2029-stone-game-ix) |
 ## Hash Table
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/2029-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
