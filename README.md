@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/0011-container-with-most-water) |
 | [0119-pascals-triangle-ii](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/0119-pascals-triangle-ii) |
 | [2029-stone-game-ix](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/0119-pascals-triangle-ii) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvagarwal2284-ai/algo-forge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
