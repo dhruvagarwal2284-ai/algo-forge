@@ -19,7 +19,6 @@ public:
         }
         return arr1;
     }
-void *operator new[](const size_t size) { return operator new(size); }
 void operator delete(void *) noexcept {}
 void operator delete[](void *) noexcept {}
 void operator delete(void *, size_t) noexcept {}
