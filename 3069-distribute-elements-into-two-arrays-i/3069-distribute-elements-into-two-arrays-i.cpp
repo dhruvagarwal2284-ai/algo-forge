@@ -5,9 +5,6 @@ public:
         arr1.push_back(nums[0]);
         vector<int> arr2;
         arr2.push_back(nums[1]);
-        int k = 0;
-        int i = 0;
-        int j = 0;
         for (int k = 2; k < nums.size(); k++) {
             if (arr1.back() > arr2.back()) {
                 arr1.push_back(nums[k]);
